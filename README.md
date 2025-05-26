@@ -20,13 +20,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>🔧 Major Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1. **Azure Subscription and Resource Group Access**  
+   Required to provision and manage the virtual machine infrastructure.
+
+2. **Basic Understanding of Windows Server and IIS**  
+   Needed for enabling roles/features like CGI and managing the web server stack.
+
+3. **PHP and MySQL Installation Files and Tools**  
+   Must have all installation assets (PHP, MySQL, PHP Manager, URL Rewrite, VC Redistributable, osTicket) on-hand.
+
+4. **Remote Desktop Access and Admin Privileges**  
+   Full admin access to the VM is essential for installing software and modifying system settings.
+
+5. **Network Configuration and Port Accessibility**  
+   Ensure that HTTP/port 80 is open and accessible for web access to osTicket.
+
 
 <h2>Installation Steps</h2>
 
