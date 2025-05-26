@@ -33,23 +33,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+✅ Step 1: Provision and Configure the Virtual Environment
+
+- Deployed a **Windows 10 VM** on **Microsoft Azure** with **4 vCPUs**.
+- Connected via **Remote Desktop Protocol (RDP)** to access the virtual machine.
+- Prepared the environment for software installation and configuration.
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+✅ Step 2: Install Required Services and Software Stack
+
+- Installed and configured **Internet Information Services (IIS)** with **CGI support**.
+- Set up **PHP**, **MySQL 5.5**, and required IIS modules:
+  - **PHP Manager**
+  - **URL Rewrite Module**
+  - **VC Redistributable**
+- Deployed **osTicket files** into the web server root directory.
+- Registered the PHP executable in IIS using **PHP Manager**.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+ ✅ Step 3: Configure osTicket and Finalize Web Interface
+
+- Enabled necessary **PHP extensions** and configured **file/folder permissions**.
+- Created the **MySQL database** and completed the osTicket installation via the web browser.
+- Finalized help desk settings:
+  - Defined support email address
+  - Connected osTicket to the configured MySQL database
