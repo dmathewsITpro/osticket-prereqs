@@ -38,6 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/8NsvKtI.png" height="80%" width="80%"
 </p>
+   
 ✅ Step 1: Provision and Configure the Virtual Environment
 
 - Deployed a **Windows 10 VM** on **Microsoft Azure** with **4 vCPUs**.
@@ -46,8 +47,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ewmz8dO.png" height="80%" width="50%"   
 </p>
+   
 ✅ Step 2: Install Required Services and Software Stack
 
 - Installed and configured **Internet Information Services (IIS)** with **CGI support**.
