@@ -61,8 +61,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Registered the PHP executable in IIS using **PHP Manager**.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/18bhMVu.png" height="50%" width="50%" 
 </p>
+   
  ✅ Step 3: Configure osTicket and Finalize Web Interface
 
 - Enabled necessary **PHP extensions** and configured **file/folder permissions**.
