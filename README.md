@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/3b90f622-590b-4e63-a011-606ae348b63b)
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 ✅ Step 1: Provision and Configure the Virtual Environment
 
