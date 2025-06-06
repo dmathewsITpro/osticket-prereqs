@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/8NsvKtI.png"
+<img src="https://i.imgur.com/8NsvKtI.png" height="80%" width="80%"
 </p>
 ✅ Step 1: Provision and Configure the Virtual Environment
 
