@@ -47,7 +47,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/eYEpDhJ.png" height="80%" width="50%"   
+<img src="https://i.imgur.com/18bhMVu.png" height="50%" width="50%"    
 </p>
    
 ✅ Step 2: Install Required Services and Software Stack
