@@ -61,7 +61,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Registered the PHP executable in IIS using **PHP Manager**.
 
 <p>
-<img src="https://i.imgur.com/GeiP7pk.png" height="50%" width="50%" 
+<img src="https://i.imgur.com/wz21Y8d.png" height="50%" width="70%" 
 </p>
    
  ✅ Step 3: Configure osTicket and Finalize Web Interface
